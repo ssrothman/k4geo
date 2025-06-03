@@ -21,6 +21,7 @@
 #include "DD4hep/DetFactoryHelper.h"
 #include "XML/Utilities.h"
 #include "DD4hep/Printout.h"
+#include <list>
 
 using namespace std;
 
